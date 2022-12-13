@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("push remote");
         System.out.println("git fix");
           System.out.println("git fix1");
+          System.out.println("new");
     }
 }
