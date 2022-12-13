@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         setContentView(R.layout.activity_main);
         System.out.println("master");
+        System.out.println("hot_fix");
     }
 }
