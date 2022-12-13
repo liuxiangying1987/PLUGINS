@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("hot_fix");
         System.out.println("push remote");
         System.out.println("git fix");
+          System.out.println("git fix1");
     }
 }
